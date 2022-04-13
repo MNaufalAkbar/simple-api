@@ -1,4 +1,6 @@
-[{"id":1,"app_name":"Namfix","slogan":"facilitate real-time interfaces"},
+{
+"data" : [
+{"id":1,"app_name":"Namfix","slogan":"facilitate real-time interfaces"},
 {"id":2,"app_name":"Opela","slogan":"mesh e-business functionalities"},
 {"id":3,"app_name":"Matsoft","slogan":"transition dot-com experiences"},
 {"id":4,"app_name":"Latlux","slogan":"streamline vertical technologies"},
@@ -47,4 +49,5 @@
 {"id":47,"app_name":"Regrant","slogan":"generate clicks-and-mortar platforms"},
 {"id":48,"app_name":"Bigtax","slogan":"strategize revolutionary mindshare"},
 {"id":49,"app_name":"Bamity","slogan":"synthesize mission-critical applications"},
-{"id":50,"app_name":"Zontrax","slogan":"enhance innovative action-items"}]
+{"id":50,"app_name":"Zontrax","slogan":"enhance innovative action-items"}
+]}
